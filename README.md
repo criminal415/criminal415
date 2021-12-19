@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 기간: 1주, 백앤드(프론트:3 백엔드:3) <br>
 기간: 1주, 백앤드(5인) <br>
 기간: 1주, 풀스택(4인) <br>
+
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=criminal415&show_icons=true&theme=radical&margin="auto")
