@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=45&center=true&vCenter=true&width=900&height=53&lines=Hi+there!!+I'm+JeongMin)](https://git.io/typing-svg)
 <!--
 **criminal415/criminal415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 목표 : 
+
 <br>
 <h3>🛠개발 인터페이스</h3>
 <div>
@@ -38,7 +39,10 @@ Here are some ideas to get you started:
 기간: 1주, 백앤드(프론트:3 백엔드:3) <br>
 기간: 1주, 백앤드(5인) <br>
 기간: 1주, 풀스택(4인) <br>
-<p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criminal415&layout=compact&hide=CSS,SCSS,Shell,Batchifile,PowerShell&langs_count=6&theme=react)
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=criminal415&show_icons=true&theme=radical&margin="auto")
-</p>
+
+
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criminal415&layout=compact&hide=CSS,SCSS,Shell,Batchifile,PowerShell&langs_count=6&theme=react)](https://github.com/criminal415/github-readme-stats)<br>
+  [![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=criminal415&show_icons=true&theme=merko&margin="auto")](https://github.com/criminal415/github-readme-stats)
+  
+
