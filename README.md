@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criminal415&layout=compact&hide=CSS,SCSS,Shell,Batchifile,PowerShell&langs_count=6&theme=react)](https://github.com/criminal415/github-readme-stats)<br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criminal415&layout=compact&hide=CSS,EJS,SCSS,Shell,Batchifile,PowerShell&langs_count=6&theme=react)](https://github.com/criminal415/github-readme-stats)<br>
   [![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=criminal415&show_icons=true&theme=merko&margin="auto")](https://github.com/criminal415/github-readme-stats)
   
 
