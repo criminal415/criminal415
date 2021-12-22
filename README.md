@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 목표 : 
+### :volcano:목표 
+항상 새로운 것을 찾음과 동시에 내 것을 돌아보며 사소한것도 놓치지 않고 끊임없이 노력하는 개발자가 되고 싶습니다.
 
 <br>
 <h3>🛠개발 인터페이스</h3>
@@ -34,11 +35,11 @@ Here are some ideas to get you started:
 
 [스파르타코딩클럽](https://hanghae99.spartacodingclub.kr/?utm_source=youtube&utm_medium=paid&utm_campaign=15140556153&utm_content=129341608796&utm_term=558314615957&gclid=CjwKCAiA-9uNBhBTEiwAN3IlNEhoZvLp8yXfTNCog-j6C9cHvssiAQrQKrCPICgCHoE_hJPpYaISYhoCR0kQAvD_BwE)<br>
 
-2021-08 ~ 2021-12<br>
-기간: 6주, 백앤드(프론트:3 백:3 디자이너:2) 실전프로젝트 ( mbti기반 컨텐츠 제공 사이트)https://github.com/criminal415/fungap-back<br>
-기간: 1주, 백앤드(프론트:3 백엔드:3) <br>
-기간: 1주, 백앤드(5인) <br>
-기간: 1주, 풀스택(4인) <br>
+2021/09/01 ~ 2021/12/23<br>
+기간: 6주, 백앤드(프론트:3 백:3 디자이너:2) 실전프로젝트 ( mbti기반 컨텐츠 제공 사이트)[fungap](https://github.com/criminal415/fungap-back)<br>
+기간: 1주, 백앤드(프론트:3 백엔드:3) 마켓컬리 클론코딩 [My-Market-Hally](https://github.com/My-Market-Hally)<br>
+기간: 1주, 백앤드(프론트:3 백엔드:3) HappyTonge [HappyTongue](https://github.com/criminal415/happyTongue-Back)<br>
+기간: 1주, 풀스택(4인) BucketList [Yanudu](https://github.com/criminal415/hanghae_yanudu_6)<br>
 
 
   
